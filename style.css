@@ -774,6 +774,17 @@ a {
   text-align: center;
 }
 
+.creator-credit {
+  max-width: 720px;
+  margin: 28px auto 0;
+  text-align: center;
+}
+
+.creator-credit p:last-child {
+  margin-bottom: 0;
+  color: var(--text);
+}
+
 .back-to-top {
   position: fixed;
   right: 18px;
